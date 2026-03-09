@@ -1,0 +1,9 @@
+{
+  "ESRGAN": {
+    "PSNR": 43.05464960573187,
+    "SSIM": 0.9656375050544739
+  },
+  "task": "LR64x64 -> HR125x125",
+  "dataset": "QCDToGGQQ_IMGjet Parquet",
+  "n_train": 3500
+}
